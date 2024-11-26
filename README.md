@@ -13,24 +13,26 @@ Currently, I am seeking a **6-month final-year internship starting in April 2025
 ## 💻 Technical Skills
 
 ### **Programming Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+</div>
 
 ### **Data Science Tools**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white)  
-![Plotly](https://img.shields.io/badge/-Plotly-3A4C5E?style=flat-square&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-3A1F73?style=flat-square&logo=seaborn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![NLTK](https://img.shields.io/badge/-NLTK-5D8B7A?style=flat-square&logo=nltk&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/-Plotly-3A4C5E?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/-Seaborn-3A1F73?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/-NLTK-5D8B7A?style=flat-square&logo=nltk&logoColor=white" alt="NLTK">
+    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</div>
 
 ### **Key Techniques**
 
