@@ -76,6 +76,12 @@ Currently, I am seeking a **6-month final-year internship starting in April 2025
 
 ---
 
+<div> 
+ 
+  ![Snake animation](https://github.com/YessineMkaouar/YessineMkaouar/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 Feel free to explore my [GitHub repositories](https://github.com/YessineMkaouar) for more insights into my work and projects. Let’s connect and collaborate!
 
 <!--
