@@ -4,7 +4,13 @@
 
 ## 👨‍🎓 About Me
 
-Hi there! I’m **Yassine Mkaouar**, a passionate **Data Science MSc student** at École Polytechnique and an engineering student at ENSTA Paris. With a strong foundation in **machine learning**, **optimization**, and **data analysis**, I aim to harness my skills to solve real-world challenges and create impactful solutions. My adaptability and curiosity have enabled me to thrive in diverse domains, including industrial automation and natural language processing.
+## 👨‍🎓 About Me
+
+Hi there! I’m **Yassine Mkaouar**, a passionate **Data Science MSc student** at École Polytechnique and an engineering student at ENSTA Paris. With a strong academic background in **machine learning**, **deep learning**, and **applied mathematics**, I enjoy tackling real-world challenges through innovative data-driven solutions.
+
+Throughout my journey, I have applied my skills across diverse fields, from **industrial automation**—where I optimized combustion processes in the cement industry to reduce GHG emissions—to **finance**, focusing on NLP techniques for document analysis. My work extends to **environmental issues**, where I’ve explored water scarcity predictions, and **client-focused domains**, where I analyzed customer churn in a retail company.
+
+I thrive on collaboration, adapting quickly to new environments, and bringing creative ideas to life. I’m always eager to explore cutting-edge technologies and contribute to impactful projects that make a difference.
 
 Currently, I am seeking a **6-month final-year internship starting in April 2025** to apply my expertise in **Data Science** to innovative projects.
 
