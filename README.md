@@ -36,6 +36,8 @@ Currently, I am seeking a **6-month final-year internship starting in April 2025
     <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
     <img src="https://img.shields.io/badge/-NLTK-5D8B7A?style=flat-square&logo=nltk&logoColor=white" alt="NLTK">
     <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-F9A03C?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/-Gradio-2E8B57?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
 </div>
 
 ### **Key Techniques**
