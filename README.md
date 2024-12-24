@@ -24,8 +24,8 @@ Currently, I am seeking a **6-month final-year internship starting in April 2025
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
 
-### **Data Science Tools**
-<div style="display: flex; gap: 10px;">
+ ### **Data Science Tools**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
@@ -38,6 +38,8 @@ Currently, I am seeking a **6-month final-year internship starting in April 2025
     <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
     <img src="https://img.shields.io/badge/-Hugging%20Face-F9A03C?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
     <img src="https://img.shields.io/badge/-Gradio-2E8B57?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </div>
 
 ### **Key Techniques**
