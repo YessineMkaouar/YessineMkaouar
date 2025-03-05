@@ -10,8 +10,6 @@ Throughout my journey, I have applied my skills across diverse fields, from **in
 
 I thrive on collaboration, adapting quickly to new environments, and bringing creative ideas to life. I’m always eager to explore cutting-edge technologies and contribute to impactful projects that make a difference.
 
-Currently, I am seeking a **6-month final-year internship starting in April 2025** to apply my expertise in **Data Science** to innovative projects.
-
 ---
 
 ## 💻 Technical Skills
